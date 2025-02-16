@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6761cf630cd91b54e833c2d86a9eb183, type: 3}
+  m_Name: LearningPhaseData
+  m_EditorClassIdentifier: 
+  hanziList:
+  - hanzi: "\u535A\u7269\u9986"
+    pinyin: "b\xF3w\xF9gu\u01CEn"
+    translation: Museum
+  - hanzi: "\u64CD\u573A"
+    pinyin: "c\u0101och\u01CEng"
+    translation: Lapangan
+  - hanzi: "\u5927\u8857"
+    pinyin: "d\xE0ji\u0113"
+    translation: Jalan raya
+  - hanzi: "\u5BB6"
+    pinyin: "ji\u0101"
+    translation: Rumah
+  - hanzi: "\u6559\u5BA4"
+    pinyin: "ji\xE0osh\xEC"
+    translation: Ruang kelas
+  - hanzi: "\u5B66\u6821"
+    pinyin: "xu\xE9xi\xE0o"
+    translation: Sekolah
+  - hanzi: "\u533B\u9662"
+    pinyin: "y\u012Byu\xE0n"
+    translation: Rumah sakit
+  - hanzi: "\u56ED"
+    pinyin: "yu\xE1n"
+    translation: Taman
+  - hanzi: "\u56FE\u4E66\u9986"
+    pinyin: "t\xFAsh\u016Bgu\u01CEn"
+    translation: Perpustakaan
+  - hanzi: "\u94F6\u884C"
+    pinyin: "y\xEDnh\xE1ng"
+    translation: Bank
